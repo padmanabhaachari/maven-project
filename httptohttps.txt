@@ -11,8 +11,7 @@ RewriteRule .* https://%{HTTP:Host}%{REQUEST_URI} [L,R=permanent]
 
 added dummy line123
 Save file and restart the service
-
-Added webhook option
+Added github webhook
 
 
 did second change
